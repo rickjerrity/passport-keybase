@@ -1,0 +1,38 @@
+{
+  "name": "passport-keybase",
+  "version": "1.0.0",
+  "description": "Keybase Id authentication strategy for PassportJS.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "identity",
+    "authentication",
+    "keybase",
+    "github",
+    "twitter",
+    "saltpack",
+    "auth",
+    "id",
+    "passport"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickjerrity/passport-keybase.git"
+  },
+  "author": {
+    "name": "rickjerrity",
+    "url": "https://blackhole.dev/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "keybase-id": "^1.0.1",
+    "passport-strategy": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5"
+  }
+}
