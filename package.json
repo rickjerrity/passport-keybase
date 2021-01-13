@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "keybase-id": "^1.0.1",
+    "keybase-id": "^1.0.2",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
