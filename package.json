@@ -1,6 +1,6 @@
 {
   "name": "passport-keybase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Keybase Id authentication strategy for PassportJS.",
   "main": "./lib/index.js",
   "scripts": {
